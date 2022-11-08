@@ -1,3 +1,16 @@
+# Uwang Hosts Start
+# Raw Url: https://raw.githubusercontent.com/uwang/myhosts/develop/home.txt   
+# CDN Url: https://gcore.jsdelivr.net/gh/uwang/myhosts@develop/home.txt  # 
+# CDN Url: https://fastly.jsdelivr.net/gh/uwang/myhosts@develop/home.txt  
+# CDN Url: https://cdn.staticaly.com/gh/uwang/myhosts/develop/home.txt (推荐) 
 192.168.2.1 router.home
-192.168.2.2 exsi.home
-192.168.2.3 qnap.home
+192.168.2.2 esxi.home
+192.168.2.5 ros.home
+192.168.2.9 lede.home
+192.168.2.10 openwrt.home
+
+192.168.2.3 synology.home
+192.168.2.3 portainer.synology.home
+192.168.2.3 adminer.synology.home
+192.168.2.3 www.synology.home
+# Uwang Hosts End

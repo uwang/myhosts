@@ -14,4 +14,5 @@
 192.168.2.3 adminer.synology.home
 192.168.2.3 www.synology.home
 192.168.2.3 deluge.synology.home
+192.168.2.3 qbittorrent.synology.home
 # Uwang Hosts End

@@ -13,4 +13,5 @@
 192.168.2.3 portainer.synology.home
 192.168.2.3 adminer.synology.home
 192.168.2.3 www.synology.home
+192.168.2.3 deluge.synology.home
 # Uwang Hosts End

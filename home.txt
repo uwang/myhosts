@@ -18,4 +18,6 @@
 192.168.2.3 qbittorrent.synology.home
 192.168.2.3 moviepilot
 192.168.2.3 moviepilot.synology.home
+192.168.2.3 gitea.synology.home
+192.168.2.3 drone.synology.home
 # Uwang Hosts End

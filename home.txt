@@ -7,6 +7,9 @@
 192.168.2.1 router.home
 192.168.2.2 esxi.home
 
+192.168.2.4 synology.esxi.home
+192.168.2.4 xiaoya.host
+
 192.168.2.5 debian.home
 192.168.2.5 portainer.debian.home
 192.168.2.5 superset.debian.home
